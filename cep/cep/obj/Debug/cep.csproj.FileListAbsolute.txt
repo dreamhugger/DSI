@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\cep\cep\bin\Debug\cep.exe.config
+C:\Users\Manager\source\repos\cep\cep\bin\Debug\cep.exe
+C:\Users\Manager\source\repos\cep\cep\bin\Debug\cep.pdb
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.Form1.resources
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.Properties.Resources.resources
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.exe
+C:\Users\Manager\source\repos\cep\cep\obj\Debug\cep.pdb
