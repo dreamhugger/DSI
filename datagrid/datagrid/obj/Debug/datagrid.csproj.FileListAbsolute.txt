@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\datagrid\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\Manager\source\repos\datagrid\datagrid\bin\Debug\datagrid.exe
+C:\Users\Manager\source\repos\datagrid\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.Form1.resources
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Users\Manager\source\repos\datagrid\datagrid\obj\Debug\datagrid.pdb
