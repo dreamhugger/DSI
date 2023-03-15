@@ -1,0 +1,11 @@
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\bin\Debug\Basic Math.exe.config
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\bin\Debug\Basic Math.exe
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\bin\Debug\Basic Math.pdb
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic Math.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic_Math.Properties.Resources.resources
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic Math.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic Math.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic Math.exe
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic Math.pdb
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic_Math.FormCalc.resources
+C:\Users\Manager\Desktop\Aula01_DS\Basic Math\Basic Math\obj\Debug\Basic_Math.Form2.resources

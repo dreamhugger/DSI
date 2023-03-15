@@ -1,0 +1,9 @@
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\bin\Debug\Medias.exe.config
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\bin\Debug\Medias.exe
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\bin\Debug\Medias.pdb
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.Form1.resources
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.Properties.Resources.resources
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.exe
+C:\Users\Manager\Desktop\Aula01_DS\Medias\Medias\obj\Debug\Medias.pdb
