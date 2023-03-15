@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\rgb\rgb\bin\Debug\rgb.exe.config
+C:\Users\Manager\source\repos\rgb\rgb\bin\Debug\rgb.exe
+C:\Users\Manager\source\repos\rgb\rgb\bin\Debug\rgb.pdb
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.Form1.resources
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.Properties.Resources.resources
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.exe
+C:\Users\Manager\source\repos\rgb\rgb\obj\Debug\rgb.pdb
