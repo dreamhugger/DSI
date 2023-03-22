@@ -16,5 +16,22 @@ namespace Quiz
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (radioButton3.Checked)
+            {
+                Dados.Acertou();
+            }
+            else
+            {
+                Dados.Errou();
+            }
+
+            Form5 p5 = new Form5();
+            p5.Show();
+            this.Hide();
+
+        }
     }
 }

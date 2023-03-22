@@ -48,6 +48,7 @@ namespace Quiz
             this.button1.TabIndex = 23;
             this.button1.Text = "Próxima";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // radioButton5
             // 
@@ -76,10 +77,10 @@ namespace Quiz
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(326, 96);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(74, 17);
+            this.radioButton3.Size = new System.Drawing.Size(99, 17);
             this.radioButton3.TabIndex = 20;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "Game Boy";
+            this.radioButton3.Text = "Super Nintendo";
             this.radioButton3.UseVisualStyleBackColor = true;
             // 
             // radioButton2
@@ -87,10 +88,10 @@ namespace Quiz
             this.radioButton2.AutoSize = true;
             this.radioButton2.Location = new System.Drawing.Point(326, 72);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(99, 17);
+            this.radioButton2.Size = new System.Drawing.Size(74, 17);
             this.radioButton2.TabIndex = 19;
             this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Super Nintendo";
+            this.radioButton2.Text = "Game Boy";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // radioButton1

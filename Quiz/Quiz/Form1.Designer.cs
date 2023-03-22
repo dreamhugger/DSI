@@ -54,10 +54,10 @@ namespace Quiz
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(327, 49);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(89, 17);
+            this.radioButton1.Size = new System.Drawing.Size(85, 17);
             this.radioButton1.TabIndex = 2;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Gunpei Yokoi";
+            this.radioButton1.Text = "Fumito Ueda";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2
@@ -76,10 +76,10 @@ namespace Quiz
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(327, 97);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(109, 17);
+            this.radioButton3.Size = new System.Drawing.Size(87, 17);
             this.radioButton3.TabIndex = 4;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "Shigeru Miyamoto";
+            this.radioButton3.Text = "Hideo Kojima";
             this.radioButton3.UseVisualStyleBackColor = true;
             // 
             // radioButton4
@@ -87,10 +87,10 @@ namespace Quiz
             this.radioButton4.AutoSize = true;
             this.radioButton4.Location = new System.Drawing.Point(327, 120);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(87, 17);
+            this.radioButton4.Size = new System.Drawing.Size(107, 17);
             this.radioButton4.TabIndex = 5;
             this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "Hideo Kojima";
+            this.radioButton4.Text = "Masahiro Sakurai";
             this.radioButton4.UseVisualStyleBackColor = true;
             // 
             // radioButton5
@@ -98,10 +98,10 @@ namespace Quiz
             this.radioButton5.AutoSize = true;
             this.radioButton5.Location = new System.Drawing.Point(327, 144);
             this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(85, 17);
+            this.radioButton5.Size = new System.Drawing.Size(109, 17);
             this.radioButton5.TabIndex = 6;
             this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "Fumito Ueda";
+            this.radioButton5.Text = "Shigeru Miyamoto";
             this.radioButton5.UseVisualStyleBackColor = true;
             // 
             // button1
@@ -112,6 +112,7 @@ namespace Quiz
             this.button1.TabIndex = 7;
             this.button1.Text = "Próxima";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox1
             // 
