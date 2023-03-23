@@ -17,25 +17,24 @@ namespace Quiz
             InitializeComponent();
         }
 
-        private void Form6_Load(object sender, EventArgs e)
+        private void Form6_Load(object sender, EventArgs e) // Código rodará ao carregar o formulário
         {
-            if ((Dados.Acerto >= 4) && (Dados.Acerto <= 7))
+            if (Dados.Acerto == 0)
+            {
+                richTextBox1.Text = "\n\nAcertos: " + Dados.MostrarAcertos() + "\n\nErros: " + Dados.MostrarErros() + "\n\nVocê realmente precisa melhorar!";
+            } 
+            else if (Dados.Acerto >= 3)
             {
                 richTextBox1.Text = "\n\nAcertos: " + Dados.MostrarAcertos() + "\n\nErros: " + Dados.MostrarErros() + "\n\nPrecisa melhorar!";
             }
-
-            if ((Dados.Acerto >= 0) && (Dados.Acerto <= 3))
-            {
-                richTextBox1.Text = "\n\nAcertos: " + Dados.MostrarAcertos() + "\n\nErros: " + Dados.MostrarErros() + "\n\nVocê realmente precisa melhorar!";
-            }
-            if ((Dados.Acerto >= 7) && (Dados.Acerto <= 9))
+            else if (Dados.Acerto == 4)
             {
                 richTextBox1.Text = "\n\nAcertos: " + Dados.MostrarAcertos() + "\n\nErros: " + Dados.MostrarErros() + "\n\nMuito bem está em um bom nivel!";
             }
-            if (Dados.Acerto == 10)
+            else if (Dados.Acerto == 5)
             {
                 richTextBox1.Text = "\n\nAcertos: " + Dados.MostrarAcertos() + "\n\nErros: " + Dados.MostrarErros() + "\n\nVOCÊ está excelente!";
-            }
+            } // Verifica a quantidade de acertos e exibi uma mensagem correspondente com certo valor de acertos
         }
     }
 }

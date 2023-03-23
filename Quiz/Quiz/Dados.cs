@@ -8,22 +8,22 @@ namespace Quiz
 {
     class Dados
     {
-        public static int Acerto = 0;
-        public static int Erro = 0;
+        public static int Acerto = 0; // Variavel de contagem de acertos
+        public static int Erro = 0; // Variavel de contagem de erros
 
-        public static void Acertou()
+        public static void Acertou() // Método para incrementar a contagem de acertos
         {
             Acerto++;
         }
-        public static void Errou()
+        public static void Errou() // Método para incrementar a contagem de erros
         {
             Erro++;
         }
-        public static int MostrarAcertos()
+        public static int MostrarAcertos() // Método para exibir a quantidade de acertos
         {
             return Acerto;
         }
-        public static int MostrarErros()
+        public static int MostrarErros() // Método para exibir a quantidade de erros
         {
             return Erro;
         }
