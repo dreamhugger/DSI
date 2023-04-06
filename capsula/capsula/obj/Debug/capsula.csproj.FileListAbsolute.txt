@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\capsula\capsula\bin\Debug\capsula.exe.config
+C:\Users\Manager\source\repos\capsula\capsula\bin\Debug\capsula.exe
+C:\Users\Manager\source\repos\capsula\capsula\bin\Debug\capsula.pdb
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.Form1.resources
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.Properties.Resources.resources
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.exe
+C:\Users\Manager\source\repos\capsula\capsula\obj\Debug\capsula.pdb
